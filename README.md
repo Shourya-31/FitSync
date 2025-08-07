@@ -41,7 +41,4 @@
 - 📈 **Instant Stats View** – Visual feedback after each session  
 - 🎯 **Minimal, Fast & Clean UI** – Focused on your performance  
 
----
-
-## 🚀 Getting Started
 
