@@ -1,48 +1,51 @@
-🚀 FitSync – Your Personal Fitness Tracker App
-Welcome to FitSync, a lightweight, real-time fitness tracking app built with modern Android development tools. Whether you're going on a run, tracking your workouts, or monitoring your progress — FitSync has got you covered.
+<h1 align="center">🚀 FitSync – Your Personal Fitness Tracker</h1>
 
-📱 Built with Kotlin • Compatible with Android 14+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Kotlin-blueviolet?style=for-the-badge&logo=kotlin">
+  <img src="https://img.shields.io/badge/Android-14-green?style=for-the-badge&logo=android">
+  <img src="https://img.shields.io/badge/Open%20Source-%E2%9C%A8-important?style=for-the-badge&logo=github">
+</p>
 
-🌟 What is FitSync?
-FitSync is your all-in-one fitness companion. It helps you:
+---
 
-🗺 Track live running routes using Google Maps
+## 🌟 What is FitSync?
 
-🔥 Calculate calories burned in real-time
+**FitSync** is a sleek and lightweight real-time fitness tracker 📱. Whether you're running, walking, or working out, it helps you:
 
-📏 Monitor total distance covered
+- 🗺 **Track live running routes** using Google Maps  
+- 🔥 **Calculate calories burned** with real-time GPS  
+- 📏 **Monitor distance** during workouts  
+- ⏱ **Manage sessions** with smart controls  
+- 📊 **Review performance** instantly with a clean, modern UI  
 
-⏱ Manage and review workout sessions
+---
 
-📊 Instantly view stats with a clean and modern UI
+## ⚙ Tech Stack & Architecture
 
-⚙ Tech Stack & Architecture
-Kotlin + ViewBinding – For modern, responsive UIs
+| Layer | Tools |
+|-------|-------|
+| 🧠 Logic | `Kotlin`, `MVVM`, `ViewBinding` |
+| 🗺 Maps & Location | `Google Maps SDK`, `Fused Location API` |
+| 🗃 Data | `Room Database`, `LiveData` |
+| 🎨 UI | `Material Design`, `XML Layouts` |
 
-MVVM Architecture – Maintainable, testable, and scalable structure
+✅ **Optimized for speed, stability & battery efficiency**
 
-Google Maps SDK – Interactive route mapping
+---
 
-Fused Location API – Accurate, low-power GPS tracking
+## ⚡ Core Features
 
-Room Database – Local data persistence
+- 📍 **Live Route Tracking** – Real-time plotting via GPS  
+- 🔢 **Calorie & Distance Calculator** – Accurate & dynamic  
+- ⏯ **Workout Session Control** – Start | Pause | Resume | Stop  
+- 📈 **Instant Stats View** – Visual feedback after each session  
+- 🎯 **Minimal, Fast & Clean UI** – Focused on your performance  
 
-Material Design – Smooth, consistent Android UI
+---
 
-⚡ Core Features
-📍 Live Location Tracking – Real-time route plotting
+## 🚀 Getting Started
 
-🔢 Calorie & Distance Calculation – Smart tracking using sensor & GPS data
+### 📥 Clone the repository
 
-⏯ Session Controls – Start, pause, resume, and stop workouts
-
-📈 Instant Stats View – Real-time performance metrics
-
-⚡ Minimal & Fast – Lightweight and optimized for performance
-
-📎 Repository
-🔗 FitSync GitHub Repository
-
-💡 Note from the Developer
-It was tough at first, but I synced myself with Gradle.
-Looking forward to exploring more in Android development ✨
+```bash
+git clone https://github.com/your-username/FitSync.git
